@@ -28,7 +28,7 @@ npm start
 
 4. Open the browser at http://localhost:3000.
    
-## How to Test the App
+### How to Test the App
 Once the app is running, you can test the following features:
 
 1. **Create Product**: Use the input fields to add a new product to the list.
